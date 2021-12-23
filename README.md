@@ -14,3 +14,6 @@ After ensuring chrome or any preferred browser can access the imaages, simply ru
 The program should look something like the screenshot provided if run correctly
 
 It utilizes dynamic and compound graphic motions, different files for different primiitive objectes, different types of lighting being used simultaneously, and allows for switching between different models of lighting as well as different light sources. More documentation provided in the  html itself. 
+
+An example of how it looks is given here:
+![screenshot](https://user-images.githubusercontent.com/60198023/147239770-7e150711-4790-4d06-898f-38dc817acc45.png)
